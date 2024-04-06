@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.special-logo {
+    font-family: var(--skincake);
+    color: rgb(15, 85, 15);
+}

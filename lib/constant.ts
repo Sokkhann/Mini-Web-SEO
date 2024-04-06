@@ -1,0 +1,2 @@
+export const ENDPOINT = "https://store.istad.co/"
+export const ACCESS_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzE0MzIyNTE1LCJpYXQiOjE3MTIxNjI1MTUsImp0aSI6IjUyNjA0NjkzYjkzZDRlZjc5NzRkODBlMjg1NmRhYzk5IiwidXNlcl9pZCI6NTR9.Kvf4mSYtmsPa7gRWXxH8ACxFdOI0zfkEvThC7UCQsfk"
