@@ -24,18 +24,18 @@ export default function page() {
           <div className="md:w-1/2 mr-8">
             <h1 className="text-4xl font-bold text-gray-800 mb-4">About Us</h1>
             <p className="text-lg text-gray-600 mb-6">
-              At Your Company Name, we believe in making a difference through innovation and design. Our journey began
-              with a simple idea: to create products that enrich people's lives. Today, we continue to push the
+              At Your Company Name we believe in making a difference through innovation and design. Our journey began
+              with a simple idea to create products that enrich people lives. Today we continue to push the
               boundaries of technology while staying true to our core values.
             </p>
             <p className="text-lg text-gray-600 mb-6">
-              Since our inception, we have been committed to sustainability and environmental responsibility. From our
-              manufacturing processes to our packaging, we strive to minimize our impact on the planet and inspire
+              Since our inception we have been committed to sustainability and environmental responsibility. From our
+              manufacturing processes to our packaging we strive to minimize our impact on the planet and inspire
               others to do the same.
             </p>
             <p className="text-lg text-gray-600 mb-6">
-              Our team is made up of passionate individuals from diverse backgrounds, united by a shared vision of
-              creating products that empower and inspire. Together, we are dedicated to driving positive change and
+              Our team is made up of passionate individuals from diverse backgrounds united by a shared vision of
+              creating products that empower and inspire. Together we are dedicated to driving positive change and
               shaping the future.
             </p>
           </div>

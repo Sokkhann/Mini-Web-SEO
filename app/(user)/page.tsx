@@ -4,8 +4,7 @@ import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import Loading from "./loading";
-
-const ENDPOINT = "https://store.istad.co/api/products/"
+import { ENDPOINT } from "@/lib/constant";
 
 export default function Home() {
 

@@ -11,7 +11,7 @@ import {ACCESS_TOKEN } from '@/lib/constant';
 // here is the place where we get the data
 const ENDPOINT = "https://store.istad.co/api/products/"
 
-export default function page() {
+export default function Page() {
 
 	// ths is the use state for products that we fetch from api
 	// after fetch we can set the data into setProducts to update the products
